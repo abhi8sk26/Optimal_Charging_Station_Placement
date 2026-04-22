@@ -53,24 +53,24 @@ Find the minimum number of charging stations and their optimal positions such th
 ## you will be prompted with the following options:
 
 📋 Menu Options
-##Dataset Generation
-    Generate synthetic dataset
+## Dataset Generation
+    - Generate synthetic dataset
 
-##Run Algorithm
+## Run Algorithm
 Executes either:
     - Brute Force (optimal)
     - Heuristic (faster, near-optimal)
 
-##Validate Result
-    Validate result CSV
+## Validate Result
+    - Validate result CSV
 
-##Compare Results
+## Compare Results
     - Compares outputs of brute-force and heuristic approaches
     - Helps evaluate performance
 
-##visualize results (Launch Dashboard)
-    Visually verify that all robots can reach the target using the placed charging stations
-    Shows robot paths from start → stations → target
-    Displays battery range coverage
-    Identifies and show which robots CAN and CANNOT reach target
+## visualize results (Launch Dashboard)
+   - Visually verify that all robots can reach the target using the placed charging stations
+   - Shows robot paths from start → stations → target
+   - Displays battery range coverage
+   - Identifies and show which robots CAN and CANNOT reach target
     
